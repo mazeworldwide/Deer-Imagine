@@ -6,7 +6,6 @@
 
 #### To learn more about Invoke, or implement our Business solutions, visit [aideer.tech]
 
-[![discord badge]][discord link] [![latest release badge]][latest release link] [![github stars badge]][github stars link] [![github forks badge]][github forks link] [![CI checks on main badge]][CI checks on main link] [![latest commit to main badge]][latest commit to main link] [![github open issues badge]][github open issues link] [![github open prs badge]][github open prs link] [![translation status badge]][translation status link]
 
 </div>
 
@@ -20,10 +19,8 @@ Deer is available in two editions:
 | - Free to use under a commercially-friendly license                                                                         | - Monthly subscription fee with three different plan levels                                         |
 | - Download and install on compatible hardware                                                                               | - Offers additional benefits, including multi-user support, improved model training, and more                          |
 | - Includes all core studio features: generate, refine, iterate on images, and build workflows                               | - Hosted in the cloud for easy, secure model access and scalability                                               |
-| Quick Start -> [Installation and Updates][installation docs]                                                                     | More Information -> [www.invoke.com/pricing](https://www.invoke.com/pricing)                        |
 
 
-![Highlighted Features - Canvas and Workflows](https://github.com/invoke-ai/InvokeAI/assets/31807370/708f7a82-084f-4860-bfbe-e2588c53548d)
 
 # Documentation
 | **Quick Links**                                                                                                      | 
