@@ -1,6 +1,6 @@
 <div align="center">
 
-![project hero](https://i.hizliresim.com/q5vyn9r.png)
+![project hero](https://i.hizliresim.com/av9yh1w.png)
 
 # Deer Imagine
 
