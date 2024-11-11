@@ -22,10 +22,6 @@ Deer is available in two editions:
 
 
 
-# Documentation
-| **Quick Links**                                                                                                      | 
-|----------------------------------------------------------------------------------------------------------------------------|
-|  [Installation and Updates][installation docs] - [Documentation and Tutorials][docs home] - [Bug Reports][github issues] - [Contributing][contributing docs]  | 
 
 </div>
 
